@@ -10,3 +10,5 @@ python3.5 main.py
 
 
 ## Dependencies
+ - numpy
+ - pygame
